@@ -1,4 +1,0 @@
-{
-  "tests/test_main.py::TestMain::()::test_version[--version]": true,
-  "tests/test_main.py::TestMain::()::test_version[-V]": true
-}
