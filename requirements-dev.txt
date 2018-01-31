@@ -2,12 +2,12 @@
 --requirement requirements.txt
 
 # Testing
-pytest==2.5.1
+pytest==3.3.2
 py==1.4.19
 mock==1.0.1
 
 # Linting
-flake8==2.1.0
+flake8==2.4.0
 mccabe==0.2.1
 pep8==1.4.6
 pyflakes==0.7.3
