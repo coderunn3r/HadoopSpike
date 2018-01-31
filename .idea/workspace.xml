@@ -2,26 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d46bc08-58a2-4392-91d4-f52469790a5f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.ppt-version" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/Makefile.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/make.bat.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/source/README.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/source/conf.py.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/source/index.rst.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/internal/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/internal/generate.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/internal/test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/internal/test.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/internal/update_existing_ppt_project.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/my_module/__init__.py.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/my_module/main.py.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/my_module/metadata.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pavement.py.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/setup.py.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test_main.py.tpl" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements-dev.txt" afterPath="$PROJECT_DIR$/requirements-dev.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.rst" afterPath="$PROJECT_DIR$/README.rst" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,6 +32,8 @@
         <option value="$PROJECT_DIR$/setup.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/requirements-dev.txt" />
+        <option value="$PROJECT_DIR$/README.rst" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -218,12 +203,12 @@
       <workItem from="1517372851872" duration="28000" />
       <workItem from="1517372893680" duration="1752000" />
       <workItem from="1517375010731" duration="2028000" />
-      <workItem from="1517426373737" duration="1240000" />
+      <workItem from="1517426373737" duration="1743000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5048000" />
+    <option name="totallyTimeSpent" value="5551000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
@@ -302,31 +287,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/my_module/metadata.py" />
-    <entry file="file://$PROJECT_DIR$/README.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.editorconfig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -417,6 +381,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>

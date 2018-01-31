@@ -4,6 +4,12 @@
 .pydevproject
 .settings
 
+# Intellij
+.idea
+
+.cache
+.editorconfig
+
 # pyenv version file
 .python-version
 
