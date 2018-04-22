@@ -22,7 +22,7 @@ import sys
 sys.path.insert(0, os.path.abspath('../..'))
 
 # Import project metadata
-from hadoop_spike import metadata
+from sample import metadata
 
 # -- General configuration ----------------------------------------------------
 

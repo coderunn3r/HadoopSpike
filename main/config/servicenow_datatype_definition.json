@@ -1,0 +1,7 @@
+{
+  "primary_field": "ip",
+  "look_up_fields": ["ip", "hostname"],
+  "type": "server",
+  "version": "1.0"
+}
+

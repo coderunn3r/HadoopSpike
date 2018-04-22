@@ -1,0 +1,9 @@
+{
+  "datasource": "servicenow",
+  "type": "server",
+  "version": "1.0",
+  "mappings": {
+    "ipaddress": "ip",
+    "hostname": "hostname"
+  }
+}
